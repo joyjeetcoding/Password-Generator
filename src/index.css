@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: url("./assets/Wall.jpg") no-repeat fixed center;
+    background-size: cover;
+}
