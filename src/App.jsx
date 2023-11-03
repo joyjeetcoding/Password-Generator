@@ -74,7 +74,7 @@ function App() {
               Copy
             </button>
           </div>
-          <div className="checkboxes flex justify-between py-3 text-white font-semibold">
+          <div className="checkboxes flex flex-row justify-between py-3 text-white font-semibold">
             <div className="flex flex-col ">
               <div className="pb-2 flex">
                 <input type="checkbox"
@@ -93,7 +93,7 @@ function App() {
                 <label>LowerCase</label>
               </div>
             </div>
-            <div className="flex flex-col">
+            <div className="flex flex-col justify-between">
               <div className="pb-2 flex">
                 <input type="checkbox"
                 onChange={() => {
