@@ -6,6 +6,10 @@ export default {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      writing: 'Permanent Marker',
+      rest: 'Gruppo'
+    }
   },
   plugins: [],
 }
