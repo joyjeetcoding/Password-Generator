@@ -109,7 +109,7 @@ function App() {
                   setCharAllowed((prev) => !prev)
                 }}
                 className="mx-1" />
-                <label>Special Characters</label>
+                <label>Characters</label>
               </div>
             </div>
           </div>
