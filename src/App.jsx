@@ -76,7 +76,7 @@ function App() {
           </div>
           <div className="checkboxes flex justify-between py-3 text-white font-semibold">
             <div className="flex flex-col ">
-              <div className="pb-2">
+              <div className="pb-2 flex">
                 <input type="checkbox"
                 onChange={() => {
                   setUppercase((prev) => !prev)
@@ -84,7 +84,7 @@ function App() {
                 className="mx-1" />
                 <label>UpperCase</label>
               </div>
-              <div className="pb-2">
+              <div className="pb-2 flex">
                 <input type="checkbox"
                 onChange={() => {
                   setLowercase((prev) => !prev)
@@ -94,7 +94,7 @@ function App() {
               </div>
             </div>
             <div className="flex flex-col">
-              <div className="pb-2">
+              <div className="pb-2 flex">
                 <input type="checkbox"
                 onChange={() => {
                   setNumberAllowed((prev) => !prev)
@@ -102,7 +102,7 @@ function App() {
                 className="mx-1" />
                 <label>Numbers</label>
               </div>
-              <div className="pb-2">
+              <div className="pb-2 flex">
                 <input type="checkbox"
                 defaultChecked={charAllowed}
                 onChange={() => {
