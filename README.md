@@ -1,8 +1,13 @@
-# React + Vite
+# PassGenius
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Password Generator App! This app helps you create strong, random passwords to enhance your online security.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Random Password Generation**: Generate passwords with a mix of uppercase, lowercase, numbers, and special characters.
+- **Customizable Length**: Choose the length of the password you need.
+- **Copy to Clipboard**: Easily copy the generated password to your clipboard.
+- **User-Friendly Interface**: Simple and intuitive interface for a seamless experience.
+
+
+Thank you for using the Password Generator App! Keep your accounts secure.
