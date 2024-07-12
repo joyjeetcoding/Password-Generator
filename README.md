@@ -1,6 +1,6 @@
 # PassGenius
 
-Welcome to the Password Generator App! This app helps you create strong, random passwords to enhance your online security.
+Welcome to the PassGenius! This app helps you create strong, random passwords to enhance your online security.
 
 ## Features
 
